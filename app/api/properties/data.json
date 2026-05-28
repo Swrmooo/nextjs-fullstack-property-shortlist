@@ -1,0 +1,96 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Modern Condo Sukhumvit",
+      "location": "Bangkok",
+      "description": "Modern condo near BTS with city view.",
+      "price": 3500000,
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+    },
+    {
+      "id": "2",
+      "title": "Luxury Pool Villa",
+      "location": "Phuket",
+      "description": "Private luxury villa with swimming pool.",
+      "price": 12500000,
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+    },
+    {
+      "id": "3",
+      "title": "Minimal Townhome",
+      "location": "Chiang Mai",
+      "description": "Cozy minimalist townhome in peaceful area.",
+      "price": 4200000,
+      "image": "https://images.unsplash.com/photo-1494526585095-c41746248156"
+    },
+    {
+      "id": "4",
+      "title": "Riverside Apartment",
+      "location": "Nonthaburi",
+      "description": "Apartment with riverside atmosphere.",
+      "price": 2800000,
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+    },
+    {
+      "id": "5",
+      "title": "Family House Garden",
+      "location": "Pathum Thani",
+      "description": "Family house with large green garden.",
+      "price": 6700000,
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750"
+    },
+    {
+      "id": "6",
+      "title": "City View Condo",
+      "location": "Bangkok",
+      "description": "High-rise condo with skyline city view.",
+      "price": 4900000,
+      "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118"
+    },
+    {
+      "id": "7",
+      "title": "Modern Loft House",
+      "location": "Pattaya",
+      "description": "Spacious loft-style modern house.",
+      "price": 8900000,
+      "image": "https://images.unsplash.com/photo-1448630360428-65456885c650"
+    },
+    {
+      "id": "8",
+      "title": "Beachfront Residence",
+      "location": "Hua Hin",
+      "description": "Beautiful beachfront residence with sea view.",
+      "price": 14500000,
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+    },
+    {
+      "id": "9",
+      "title": "Cozy Studio Room",
+      "location": "Bangkok",
+      "description": "Compact studio room for urban lifestyle.",
+      "price": 1900000,
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+    },
+    {
+      "id": "10",
+      "title": "Scandinavian Condo",
+      "location": "Chiang Rai",
+      "description": "Scandinavian-style condo with warm interior.",
+      "price": 3100000,
+      "image": "https://images.unsplash.com/photo-1494526585095-c41746248156"
+    }
+  ],
+  "favorites": {
+    "user-1": [
+      "2",
+      "6"
+    ],
+    "user-2": [
+      "1"
+    ],
+    "user-3": [
+      "1"
+    ]
+  }
+}
